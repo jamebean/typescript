@@ -1,6 +1,7 @@
 https://zhuanlan.zhihu.com/p/44826081
 https://zhuanlan.zhihu.com/p/144759092
 https://blog.csdn.net/lsl30522/article/details/106142290
+https://blog.csdn.net/weixin_44135807/article/details/98211400
 
 Typescript 入门基础篇（一）
 
